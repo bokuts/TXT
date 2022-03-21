@@ -1,0 +1,4 @@
+name Tatsiana
+age 25
+pets 3
+salary 1000$
